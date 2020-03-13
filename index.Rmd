@@ -58,7 +58,7 @@ class: middle, center, inverse
 # ~~We need to make assumptions~~
 # positivity
 # consistency
-# exchanability 
+# exchangeability 
 ---
 
 class: middle, center, inverse
@@ -66,7 +66,7 @@ class: middle, center, inverse
 # ~~We need to make assumptions~~
 # positivity
 # consistency
-# **exchanability**
+# **exchangeability**
 
 ---
 
@@ -303,4 +303,13 @@ class: inverse
 1. [An Introduction to Directed Acyclic Graphs](https://ggdag.malco.io/articles/intro-to-dags.html)
 1. [Common Structures of Bias](https://ggdag.malco.io/articles/bias-structures.html)
 
+---
+
+class: center, middle, inverse
+
+## [https://ggdag.malco.io](https://ggdag.malco.io/)
+
+--
+
+## **Thanks!**
 
